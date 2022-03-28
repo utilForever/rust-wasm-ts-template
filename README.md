@@ -1,5 +1,7 @@
 # rust-wasm-ts-template
 
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/rust-wasm-ts-template/blob/main/LICENSE) [![Check](https://github.com/utilForever/rust-wasm-ts-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/utilForever/rust-wasm-ts-template/actions/workflows/main.yml)
+
 This repository is a template of Rust + WebAssembly with TypeScript (🦀 + 🕸️ = 💖).
 
 ## Requirements
